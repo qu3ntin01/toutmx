@@ -1,6 +1,6 @@
 # ToutMX — canal `stable`
 
-Version **0.1.0**. Panel auto-hébergé pour administrer une architecture mail professionnelle.
+Version **0.2.0**. Panel auto-hébergé pour administrer une architecture mail professionnelle.
 
 Ce dépôt ne contient que les versions compilées. Site : https://toutmx.com — documentation : https://docs.toutmx.com
 
